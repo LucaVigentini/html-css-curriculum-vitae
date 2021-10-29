@@ -1,3 +1,9 @@
+body{}
+
+header {
+    background-color: rgb(141, 158, 158);    
+}
+
 img {
     width: 300px;
     height: 300px;
@@ -23,4 +29,12 @@ hr{
     display:block;
     margin:0px auto;
     text-align:center;
+}
+
+h3 {
+    font-style:italic;
+}
+
+p {
+    text-align: justify;
 }
