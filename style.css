@@ -1,12 +1,15 @@
-body{}
+body {
+    margin-left: 25%;
+    margin-right: 25%;
+}
 
 header {
-    background-color: rgb(141, 158, 158);    
+    background-color: rgba(208, 230, 230, 0.596);    
 }
 
 img {
-    width: 300px;
-    height: 300px;
+    width: 190px;
+    height: 190px;
     display:block;
     margin:0px auto;
     text-align:center;
@@ -18,11 +21,11 @@ h1{
     text-align:center;
 }
 h2 {
-    color: rgb(224, 140, 14);
+    color: rgb(240, 156, 29);
 }
 
 hr{
-    color: rgb(224, 140, 14);
+    color: rgb(240, 156, 29);
 }
 
 .bot {
